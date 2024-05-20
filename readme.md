@@ -2,7 +2,7 @@
 
 ### About
 
-KennisTech Home uses next gen languages to interacte with users over web.
+KennisTech Home uses next gen languages to interact with users over web.
 
 ### Maintained By
 
